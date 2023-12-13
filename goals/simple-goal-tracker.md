@@ -13,3 +13,26 @@
 ### Area
 - [ ] Goal
 - [ ] Goal
+
+## Long-Term
+### Area
+- [ ] Goal
+- [ ] Goal
+
+### Area
+- [ ] Goal
+- [ ] Goal
+
+### Area
+- [ ] Goal
+- [ ] Goal
+
+## Ultimate
+### Area
+- [ ] Goal
+
+### Area
+- [ ] Goal
+
+### Area
+- [ ] Goal
